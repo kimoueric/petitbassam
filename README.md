@@ -26,4 +26,4 @@ Pour utiliser ce projet localement, suivez les étapes suivantes :
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone https://github.com/votre-utilisateur/petit-bassam.git
+   git clone https://github.com/kimoueric/petitbassam.git
